@@ -1,16 +1,16 @@
 # MDwiki
 
-[About](index.md)
+[主页](index.md)
 
-[Docs]()
+[文档]()
 
-  * [Quickstart](quickstart.md)
+  * [Customizing](customizing.md)
   - - - -
   * # Advanced
   * [Customizing](customizing.md)
 
-[Quickstart](quickstart.md)
-[Examples](examples.md)
+[快速开始](quickstart.md)
+[网站实例](examples.md)
 
 <!-- [gimmick:theme (inverse: true)](default) -->
 
